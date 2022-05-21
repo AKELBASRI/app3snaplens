@@ -1,0 +1,21 @@
+{
+    "GuideData": {
+      "AdsController": 
+        {
+          "NetworkAds": "applovin",
+           
+          "BannerAdmob": "ca-app-pub-5646335179199384/4537945969",
+          "InterstitialAdmob": "ca-app-pub-5646335179199384/4938273351",
+         
+            
+      "NativeApplovin":"08a0b1502c1ff6a4",
+      "BannerApplovin":"3348b672845b7a51",
+      "InterstitialApplovin":"cae10370eb6c1252"
+        },
+        "Links":{
+          "PrivacyPolicy":"https://sites.google.com/view/superherocallerprivacypolicy/accueil",
+          "PackageName":"io.Spider.SuperHeroCaller"
+        }
+     
+    }
+  }
